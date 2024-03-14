@@ -1,4 +1,4 @@
-package service;
+package com.example.pharmacymanagement.service;
 
 import com.example.pharmacymanagement.entity.PharmacyEntity;
 import com.example.pharmacymanagement.repository.PharmacyRepository;
